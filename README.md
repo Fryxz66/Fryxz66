@@ -10,9 +10,9 @@
 
 <p align="center">I'm Julian, a 25-year-old from Germany with a Bachelor's in Cybersecurity and Management. Coding is my thing, and I’m pretty good at running Discord servers too. When I’m not glued to a screen, I’m usually out fishing or gaming.</p>
 
-- 🔭 I’m currently working on [TozyxBot](https://github.com/Fryxz66/Tozyxbot.git)
+- 🔭 I’m currently working on [TozyxBot](https://github.com/Fryxz66/Tozyx-Network-Bot.git)
 
-- 📫 for cooperation  **barcode113@gmx.dem**
+- 📫 for cooperation  **fryxz-coop@gmx.de**
 
 ###
 
