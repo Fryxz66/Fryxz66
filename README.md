@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Tozyx Bot](https://github.com/Fryxz66/Tozyxbot.git)
 
-- 📫 How to reach me **julianjung292@icloud.com**
+- 📫 How to reach me **barcode113@gmx.dem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
