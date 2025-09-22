@@ -2,23 +2,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Fryxz66.Fryxz66&left_text=Profile%20views"  />
 </div>
 
-###
 
-<h2 align="center">About me</h2>
 
-###
+## Hi there! 👋
 
-<p align="center">I'm Julian, a 25-year-old from Germany with a Bachelor's in Cybersecurity and Management. Coding is my thing, and I’m pretty good at running Discord servers too. When I’m not glued to a screen, I’m usually out fishing or gaming.</p>
+I'm Fryxz66, with a Bachelor's in Cybersecurity and Management. Coding is my thing. I love creating innovative solutions and exploring new technologies in the world of programming.
 
-- 🔭 I’m currently working on [TozyxBot](https://github.com/Fryxz66/Tozyx-Network-Bot.git)
+## About Me
 
-- 📫 for cooperation  **fryxz-coop@gmx.de**
+Currently based in Germany, I'm a developer with experience in various programming languages and projects. I enjoy working on open-source projects and continually expanding my skill set.
 
-###
-
-<h6 align="left">Languages and Tools:</h6>
-
-###
+## Skills & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
@@ -52,32 +44,49 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
 
-<h6 align="left">Connect with me:</h6>
 
-###
+## Top Projects
 
-<div align="left">
-  <a href="https://discordapp.com/users/1166041033918926920" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31525737/fryxz66" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://dev.to/fryxz66" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://www.youtube.com/c/julees113" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+- [dbMoverPython](https://github.com/Fryxz66/dbMoverPython)  
+   Description: A Python-based tool for database migration.  
+   Stars: 0  
+   Language: Python  
+   Forks: 0, Issues: 0  
 
-###
+- [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord)  
+   Description: A tagging system for Discord servers.  
+   Stars: 0  
+   Language: N/A  
+   Forks: 1, Issues: 1
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fryxz66&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+## GitHub Stats
 
-###
+🏆 **Public Repositories:** 3  
+🌟 **Followers:** 0  
+👥 **Following:** 0  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fryxz66&show_icons=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [dbMoverPython](https://github.com/Fryxz66/dbMoverPython) - Added files via upload.  
+- Created repository [Tozyx-Network-Bot](https://github.com/Fryxz66/Tozyx-Network-Bot).  
+- Updated README in personal repo [Fryxz66](https://github.com/Fryxz66/Fryxz66).  
+- Created repository [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord).  
+- Pushed to [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord) - Added files via upload.
+
+## Connect with Me
+
+{"Other links":"https://fakecrime.bio/Jules113"}
+
+## ASCII Art
+
+```
+   __                       __    __   
+  / _|_ __ _   ___  __ ____/ /_  / /_  
+ | |_| '__| | | \ \/ /|_  / '_ \| '_ \ 
+ |  _| |  | |_| |>  <  / /| (_) | (_) |
+ |_| |_|   \__, /_/\_\/___|\___/ \___/ 
+           |___/                       
+```
