@@ -60,25 +60,21 @@ Currently based in Germany, I'm a developer with experience in various programmi
    Language: N/A  
    Forks: 1, Issues: 1
 
-## GitHub Stats
 
-🏆 **Public Repositories:** 3  
-🌟 **Followers:** 0  
-👥 **Following:** 0  
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fryxz66&show_icons=true&count_private=true&theme=radical)
 
 ## Recent Activity
 
-- Pushed to [dbMoverPython](https://github.com/Fryxz66/dbMoverPython) - Added files via upload.  
-- Created repository [Tozyx-Network-Bot](https://github.com/Fryxz66/Tozyx-Network-Bot).  
+- Pushed to [dbMoverPython](https://github.com/Fryxz66/dbMoverPython) - Added files via upload.    
 - Updated README in personal repo [Fryxz66](https://github.com/Fryxz66/Fryxz66).  
 - Created repository [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord).  
-- Pushed to [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord) - Added files via upload.
+
 
 ## Connect with Me
-
-[Other links:](https://fakecrime.bio/Jules113)
+[Tozyx Network Discord](https://discord.gg/FQeWeaxVD9)
+[Other links](https://fakecrime.bio/Jules113)
 
 ## ASCII Art
 
