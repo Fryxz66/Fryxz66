@@ -78,7 +78,7 @@ Currently based in Germany, I'm a developer with experience in various programmi
 
 ## Connect with Me
 
-{"Other links":"https://fakecrime.bio/Jules113"}
+[Other links:](https://fakecrime.bio/Jules113)
 
 ## ASCII Art
 
