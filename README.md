@@ -52,15 +52,10 @@ Currently based in Germany, I'm a developer with experience in various programmi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fryxz66&show_icons=true&count_private=true&theme=radical)
 
-## Recent Activity
-
-- Pushed to [dbMoverPython](https://github.com/Fryxz66/dbMoverPython) - Added files via upload.    
-- Updated README in personal repo [Fryxz66](https://github.com/Fryxz66/Fryxz66).  
-- Created repository [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord).  
-
 
 ## Connect with Me
-![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) [Tozyx Network](https://discord.gg/FQeWeaxVD9)
+![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+[Tozyx Network](https://discord.gg/FQeWeaxVD9)
 
 [Other links](https://fakecrime.bio/Jules113)
 
