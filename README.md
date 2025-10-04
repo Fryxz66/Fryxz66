@@ -33,20 +33,6 @@ Currently based in Germany, I'm a developer with experience in various programmi
 ![image](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![image](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![image](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 
-## Top Projects
-
-- [dbMoverPython](https://github.com/Fryxz66/dbMoverPython)  
-   Description: A Python-based tool for database migration.  
-   Stars: 0  
-   Language: Python  
-   Forks: 0, Issues: 0  
-
-- [TagSystem-Discord](https://github.com/Fryxz66/TagSystem-Discord)  
-   Description: A tagging system for Discord servers.  
-   Stars: 0  
-   Language: N/A  
-   Forks: 1, Issues: 1
-
 
 ## GitHub Stats
 
