@@ -55,7 +55,9 @@ Currently based in Germany, I'm a developer with experience in various programmi
 
 ## Connect with Me
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+
 [Tozyx Network](https://discord.gg/FQeWeaxVD9)
+
 
 [Other links](https://fakecrime.bio/Jules113)
 
